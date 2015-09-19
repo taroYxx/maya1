@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F3633EB7-2472-4045-8958-C59BE6CE17AF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>maya1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>847E3C6D635B040D8A79CA68ED85211A2831E0EF</key>
+		<string>https://github.com/taroYxx/maya1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>maya1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>847E3C6D635B040D8A79CA68ED85211A2831E0EF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/taroYxx/maya1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>847E3C6D635B040D8A79CA68ED85211A2831E0EF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>847E3C6D635B040D8A79CA68ED85211A2831E0EF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>maya1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
