@@ -54,7 +54,7 @@
         self.customInput = [[UIDatePicker alloc] init];
         self.customInput.datePickerMode = UIDatePickerModeDate;
         [self.customInput addTarget:self action:@selector(dateChanged:) forControlEvents:UIControlEventValueChanged];
-        
+        NSLog(@"asasa");
     }
 
 
