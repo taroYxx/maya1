@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MYTabBarViewController.h
 //  maya1
 //
 //  Created by Taro on 15/7/21.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MYTabBarViewController : UITabBarController
 
 @end
-
